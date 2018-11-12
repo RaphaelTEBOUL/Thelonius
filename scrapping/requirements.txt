@@ -1,0 +1,6 @@
+youtube_dl
+ffmpeg-python
+pydub
+
+# ffmpeg neede too
+# e.g. mac: brew install ffmpeg
